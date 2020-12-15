@@ -28,9 +28,14 @@ I also freelance on Fiverr
 
 <h3 align="center">Public work</h3> 
 
+### Oga Fitness
+
 -  [Oga Fitness Home](https://ogafit.com/)
 - [Team Bicep Home](https://teambicep.com)
 
+### Fiverr projects
+
+- [Excitable one](https://oga-sven.github.io/fiverr-excitable-one/build/)
 <!--
 **oga-sven/oga-sven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
