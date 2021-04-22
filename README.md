@@ -2,15 +2,11 @@
 <h3 align="center">⚡Startup bussines Owner</h3>
 
 <h3 align="center">Introduction</h3>
-My name is Sven Elmendorp. Also known as "Oga". I am a Full Stack allround developer, entrepreneur,  and bussiness owner. Currently working on multiple projects, and creating a global fitness community. 
-I also freelance on Fiverr
-
+Oga. Full Stack allround developer, entrepreneur,  and bussiness owner. Currently working on multiple projects, and creating a global fitness community.
 
 <h3 align=center>About me:</h3>
 
-
 - Owner and founder of [Oga Fitness](https://ogafit.com/) and [Team Bicep](https://teambicep.com/)  
-- Freelancer on [Fiverr](https://www.fiverr.com/the_dev1/create-a-reactjs-or-angular-website-for-you)
 
 <h3 align="center">Contact information</h3>
 
@@ -32,10 +28,6 @@ I also freelance on Fiverr
 
 -  [Oga Fitness Home](https://ogafit.com/)
 - [Team Bicep Home](https://teambicep.com)
-
-### Fiverr projects
-
-- [Excitable one](https://oga-sven.github.io/fiverr-excitable-one/build/)
 <!--
 **oga-sven/oga-sven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
