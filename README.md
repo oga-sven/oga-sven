@@ -1,6 +1,8 @@
 <h1 align="center">Sven Elmendorp</h1>
 <h3 align="center">⚡Welcome to my github</h3>
 
+<h6><i>For the best experience, view this file on Github's light mode</i></h6>
+
 <h3 align="center">Introduction</h3>
 Oga. Full Stack allround developer, entrepreneur,  and bussiness owner. Currently working on multiple projects, and creating a global fitness community.
 
@@ -17,13 +19,20 @@ Oga. Full Stack allround developer, entrepreneur,  and bussiness owner. Currentl
 <h3 align="center">Contact information and Social media</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/svenelmendorp/" target="blank"><img style="background-color:white;fill:white;" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />Check me on linkedin</a>
-<a href="mailto:s.elmendorp@ogafit.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" alt="Email" height="30" width="40" />Send me an email</a>
+<a href="https://www.linkedin.com/in/svenelmendorp/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />Check me on linkedin</a>
+<a href="mailto:s.elmendorp@ogafit.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" alt="Email" height="30" width="40" />Send me an email</a>
 </p>
 <p align="center">
-<a href="https://instagram.com/ogathereal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg" alt="Instagram" height="30" width="40" />Follow me on Instagram</a>
-<a href="https://twitter.com/oga_the_real" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="Instagram" height="30" width="40" />Follow me on Twitter</a>
+<a href="https://instagram.com/ogathereal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg" alt="Instagram" height="30" width="40" />Follow me on Instagram</a>
+<a href="https://twitter.com/oga_the_real" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg" alt="Instagram" height="30" width="40" />Follow me on Twitter</a>
 </p>
+
+<h3 align="center">Currently working on:</h3> 
+- Personal portfolio
+- Team Bicep's Home website
+- Team Bicep http bot
+- Oga Fitness 3
+- Project Mainframe
 
 <h3 align="center">Public work</h3> 
 
