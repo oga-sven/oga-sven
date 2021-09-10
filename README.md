@@ -4,7 +4,7 @@
 <h6><i>For the best experience, view this file on Github's light mode</i></h6>
 
 <h3 align="center">Introduction</h3>
-Welcome to my github profile. On this page I will present you a short summary of my coding experiences and projects. If you have any questions or would like to reach me, I advice you to email me. Alternatively you could send me a message on Discord. This page is still under some construction 
+Welcome to my github profile. On this page I will present you a short summary of my coding experiences and projects. If you have any questions or would like to reach me, I advice you to email me. Alternatively you could send me a message on Discord. This page is still under some construction. Im currently working on my new portfolio. Once that is live you can see all details on there.
 
 <h3 align=center>Who am I?</h3>
 
@@ -32,8 +32,8 @@ Welcome to my github profile. On this page I will present you a short summary of
 - Personal portfolio
 - Team Bicep's Home website
 - Team Bicep http bot
-- Oga Fitness 3
-- Project Mainframe
+- Oga Fitness V3
+- OFAPI 2
 
 <h3 align="center">Public work</h3> 
 
