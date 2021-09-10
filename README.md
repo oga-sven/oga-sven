@@ -9,7 +9,7 @@ Welcome to my github profile. On this page I will present you a short summary of
 <h3 align=center>Who am I?</h3>
 
 <h4> - Owner and founder of <a href="https://ogafit.com/" target="_blank">Oga Fitness</a> and <a href="https://teambicep.com/" target="_blank">Team Bicep</a></h4>
-  In 2019, I founded Oga Fitness with the goal of creating fitness digital fitness tools. This has lead to me and my partners to create a online fitness community and platform with the goal to connect everyone. Geographical location, skill level, philosphy and other special conditions do *not* matter to us. **Everyone is welcome!**
+  In 2019, I founded Oga Fitness with the goal of creating fitness digital fitness tools. This has lead to me and my partners to create a online fitness community and platform with the goal to connect everyone. Geographical location, skill level, philosphy and other special conditions do <i>no</i> matter to us. <i><b>Everyone is welcome!</b></i>
 
 <h4> - Full stack developer. Currently employed as Front end developer</h4>
   As a full stack developer, I try to orientate myself around the newest technologies. I mainly focus on the latest development on the front end frameworks and libraries. I am currently employed at <a href="https://equippo.com/" target="_blank">Equippo</a>
